@@ -70,8 +70,3 @@ class MainActivity : AppCompatActivity() {
       )
     }
 }
-//val text = Toast.LENGTH_SHORT
-//val toast = Toast.makeText(applicationContext,lat,text)
-//val toast1 = Toast.makeText(applicationContext,lon,text)
-//toast.show()
-//toast1.show()
